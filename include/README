@@ -8,7 +8,7 @@ ESP32
 Hot Glue :D
 3d printer
 ### 3d Files:
-3d Files are on my thingiverse: [thingverse](https://www.thingiverse.com/indoxus/designs)
+3d Files are on my thingiverse: [thingverse](https://www.thingiverse.com/thing:7018258)
 not sure if im allowed to publish my educational license Inventor files but if you ask nicely i can change them for you
 ### Setup:
 in the first few lines of main.cpp change **ssid** to your wlans ssid, **pwd** to your password, **stop** to your StopNumber which can be found by using test.py and changing the req for a route that passes by your stop
