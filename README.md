@@ -1,5 +1,4 @@
-# Price
-20€
+# Price: 20€
 
 This is a small project improving(by making it cheaper) my previous solution to an API monitor in our Kitchen
 
